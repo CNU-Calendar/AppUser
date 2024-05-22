@@ -27,7 +27,7 @@
             </intent-filter>
         </activity>
         <service
-                android:name="device.gps.LocationService"
+                android:name="device.gps.LocationService2"
                 android:foregroundServiceType="specialUse"
                 android:enabled="true"
                 android:exported="false" tools:ignore="MissingClass"/>

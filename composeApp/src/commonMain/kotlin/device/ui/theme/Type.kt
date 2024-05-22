@@ -3,14 +3,15 @@ package device.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
+import androidx.compose.ui.text.font.toFontFamily
 import androidx.compose.ui.unit.sp
 import calendarplus.composeapp.generated.resources.Res
 import calendarplus.composeapp.generated.resources.SUITE_Variable
-import org.jetbrains.compose.resources.Font
 
 
-//val suiteFontFamily = FontFamily(Font(Res.font.SUITE_Variable))
+//val suiteFontFamily = Font(Res.font.SUITE_Variable).toFontFamily()
 
 
 // Set of Material typography styles to start with
