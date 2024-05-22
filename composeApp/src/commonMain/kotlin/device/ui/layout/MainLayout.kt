@@ -14,7 +14,7 @@ import calendarplus.composeapp.generated.resources.compose_multiplatform
 import org.jetbrains.compose.resources.painterResource
 
 /*
- * TODO: 레이아웃 만들기
+ * TODO: main ui 레이아웃 만들기
  */
 
 @Composable

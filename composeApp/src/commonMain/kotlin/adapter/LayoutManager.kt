@@ -6,7 +6,7 @@ import device.ui.layout.MainLayout
 
 
 /*
- * TODO: 레이아웃 여러개 생성 후 레이아웃 간 전환 애니메이션 정의
+ * TODO: 레이아웃(main,sub등등) 선언(불러오기) 후 레이아웃 간 전환 애니메이션 정의
  */
 @Composable
 fun LayoutManager() {
